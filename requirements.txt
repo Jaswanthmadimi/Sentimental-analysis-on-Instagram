@@ -1,0 +1,9 @@
+instaloader
+pandas
+numpy
+spacy
+textblob
+matplotlib
+seaborn
+wordcloud
+langdetect
